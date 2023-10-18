@@ -3,7 +3,7 @@
 ### Dokumenta saturs
 
 #### 1. Spēles apraksts
-Interesenta spēlē kas atīsta loģiku.
+Interesenta spēlē, kas attīsta loģiku.
 
 #### 2. Spēles loģika
 
